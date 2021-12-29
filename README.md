@@ -1,5 +1,5 @@
 <h2>Jatinder Virdi</h2>
-👋 Hi there, I’m Jatinder 👳‍♂️. An autodidact with a passion, hunger and enthusiasm for Full Stack Web Development 💻 and all things Programming!!
+👋 Hi there, I’m Jatinder 👳‍♂️. An autodidact with a passion, hunger and enthusiasm for Full Stack Web Development 💻 and all things Programming.
 
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Python, Javascript, NodeJS, React, Tailwind CSS and GraphQL
