@@ -1,11 +1,6 @@
 <h2>Jatinder Virdi</h2>
 <img align="right" src="https://github.com/VIRDIJS/VIRDIJS/blob/images/compGuy.png">
-👋 Hi there, I’m Jatinder 👳‍♂️.An autodidact with a passion, hunger and enthusiasm for Full Stack Web Development 💻 and all things Programming!!
-
-
-
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Python, Javascript, NodeJS, React, Tailwind CSS and GraphQL
+👋 Hi there, I’m Jatinder 👳‍♂️. I am enthusiastic about Web Development and I like to build things for the web 💻. I’m currently learning Python, Javascript, NodeJS, React, Tailwind CSS and GraphQL
 
 <h3>{...} My Toolbox 🛠 </h3>
 <pre>{
